@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SystemDesignPractice.iml" filepath="$PROJECT_DIR$/.idea/SystemDesignPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logger-system/logger-system.iml" filepath="$PROJECT_DIR$/logger-system/logger-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tic-tac-toe/tic-tac-toe.iml" filepath="$PROJECT_DIR$/tic-tac-toe/tic-tac-toe.iml" />
+    </modules>
+  </component>
+</project>
