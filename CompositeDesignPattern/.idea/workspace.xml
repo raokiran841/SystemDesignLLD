@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e45575b-268a-4bd9-9aed-d0301641f95a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/calculator/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/calculator/compositeDesignPattern/ArithmaticExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/calculator/compositeDesignPattern/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/calculator/compositeDesignPattern/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/calculator/compositeDesignPattern/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/filesystem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/filesystem/compositeDesignPattern/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/filesystem/compositeDesignPattern/FSHelperSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/filesystem/compositeDesignPattern/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/filesystem/compositeDesignPattern/FileSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/filesystem/problem/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/filesystem/problem/FSHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/filesystem/problem/File.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2axHhIHdQbRsIhCqSoFth3TF44b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/SystemDesignPractice/CompositeDesignPattern"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SystemDesignPractice\FileSystemLLD\src\main\java\org\example\compositeDesignPattern" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.compositeDesignPattern" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main2">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.filesystem.Main" />
+      <module name="CompositeDesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.filesystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.calculator.Main2" />
+      <module name="CompositeDesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="CompositeDesignPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="CompositeDesignPattern" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e45575b-268a-4bd9-9aed-d0301641f95a" name="Changes" comment="" />
+      <created>1705253429551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705253429551</updated>
+    </task>
+    <servers />
+  </component>
+</project>
